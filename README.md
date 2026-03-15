@@ -89,7 +89,7 @@ gr.close_all()
 ```
 
 ### OUTPUT:
-![Image Captioning Output - Betta Fish](https://raw.githubusercontent.com/Sanjeev23062007/genai-image-captioning-blip/main/images/betta-fish-output.jpg)
+![Image alt](https://raw.githubusercontent.com/Sanjeev23062007/genai-image-captioning-blip/main/images/betta-fish-output.jpg)
 
 
 ### RESULT:
